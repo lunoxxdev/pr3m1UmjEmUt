@@ -1,7 +1,7 @@
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition vpnpremium 1.0
-# Auther  : Hokage Legend
+# Auther  : LunoxxImpostor
 # (C) Copyright 2023
 # =========================================
 # pewarna hidup
@@ -78,7 +78,7 @@ cd
 #install client-sldns.service
 cat > /etc/systemd/system/client-sldns.service << END
 [Unit]
-Description=Client SlowDNS By Hokage Legend
+Description=Client SlowDNS By LunoxxImpostor
 Documentation=https://nekopoi.care
 After=network.target nss-lookup.target
 
@@ -99,7 +99,7 @@ cd
 #install server-sldns.service
 cat > /etc/systemd/system/server-sldns.service << END
 [Unit]
-Description=Server SlowDNS By Hokage Legend
+Description=Server SlowDNS By LunoxxImpostor
 Documentation=https://nekopoi.care
 After=network.target nss-lookup.target
 

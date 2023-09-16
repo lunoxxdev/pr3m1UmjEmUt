@@ -1,5 +1,5 @@
 #!/bin/bash
-# HOKAGE LEGEND
+# LunoxxImpostor
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -56,4 +56,4 @@ echo "=========================="
 echo "Username  : $user"
 echo "Expired   : $exp"
 echo "=========================="
-echo "Script By Hokage Legend"
+echo "Script By LunoxxImpostor"

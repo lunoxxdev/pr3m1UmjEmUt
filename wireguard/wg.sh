@@ -2,7 +2,7 @@
 # Debian 9 & 10 64bit
 # Ubuntu 18.04 & 20.04 bit
 # Centos 7 & 8 64bit 
-# Mod By Hokage Legend
+# Mod By LunoxxImpostor
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -45,7 +45,7 @@ if [[ -e /etc/wireguard/params ]]; then
 	exit 1
 fi
                                                            
-echo -e "${Info} Wireguard Script By Hokage Legend"
+echo -e "${Info} Wireguard Script By LunoxxImpostor"
 # Detect public IPv4 address and pre-fill for the user
 
 # Detect public interface and pre-fill for the user

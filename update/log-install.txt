@@ -1,4 +1,4 @@
-HOKAGE LEGEND VPN PREMIUM                    
+LunoxxImpostor VPN PREMIUM                    
 SCRYPT VPS PREMIUM UPDATE                    
 ------------------------------------
    >>> Service & Port
@@ -70,6 +70,6 @@ SCRYPT VPS PREMIUM UPDATE
    - Installation Log --> /root/log-install.txt
 
 ===================Contact==================
------------------HOKAGE LEGEND---------------
+-----------------LunoxxImpostor---------------
 ---------------Whatsapp : 087726917005-----------
 

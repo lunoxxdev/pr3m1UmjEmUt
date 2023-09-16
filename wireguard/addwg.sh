@@ -112,5 +112,5 @@ echo -e "Expired  : $exp"
 echo -e "======================="
 echo -e "Link WG  : http://$MYIP:86/$CLIENT_NAME.conf"
 echo -e "======================="
-echo -e "Script By Hokage Legend"
+echo -e "Script By LunoxxImpostor"
 rm -f /root/wg0-client-$CLIENT_NAME.conf

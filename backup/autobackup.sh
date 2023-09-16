@@ -1,5 +1,5 @@
 #!/bin/bash
-# HOKAGE LEGEND
+# LunoxxImpostor
 # ==========================================
 # Color
 RED='\033[0;31m'

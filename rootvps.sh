@@ -1,4 +1,4 @@
-# Scrypt By : Hokage Legend
+# Scrypt By : LunoxxImpostor
 # ipinfo
 MYIP=$(wget -qO- ifconfig.me);
 # pewarna hidup

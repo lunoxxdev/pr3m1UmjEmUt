@@ -64,5 +64,5 @@ Cert      : http://$IP:89/server.crt
 Created   : $hariini
 Expired   : $exp
 ============================
-Script By Hokage Legend
+Script By LunoxxImpostor
 EOF

@@ -2,7 +2,7 @@
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition 1.0
-# Auther  : Hokage Legend
+# Auther  : LunoxxImpostor
 # (C) Copyright 2023
 # =========================================
 clear

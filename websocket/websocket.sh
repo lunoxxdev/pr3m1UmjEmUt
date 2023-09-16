@@ -2,7 +2,7 @@
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Premium Edision
-# Auther  : Hokage Legend
+# Auther  : LunoxxImpostor
 # (C) Copyright 2023
 # =========================================
 clear

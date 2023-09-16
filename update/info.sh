@@ -76,7 +76,7 @@ echo -e "$COLOR1<<<<<<───────────────────�
 echo -e "$COLOR1     $(cat /root/log-install.txt)                   ${NC}"                  
 echo -e "$COLOR1<<<<<────────────────────────────────────────────>>>>>${NC}"
 echo -e "$COLOR1┌─────────────────────────────────────────────────┐${NC}"
-echo -e "$COLOR1│${NC}                • HOKAGE LEGEND •                $COLOR1│$NC"
+echo -e "$COLOR1│${NC}                • LunoxxImpostor •                $COLOR1│$NC"
 echo -e "$COLOR1└─────────────────────────────────────────────────┘${NC}"
 echo -e ""
 read -n 1 -s -r -p "  Press any key to back on menu"

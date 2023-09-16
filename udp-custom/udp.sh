@@ -1,10 +1,10 @@
 #!/bin/bash
 # Script UdpCustom 2023
-# Script By Hokage Legend
+# Script By LunoxxImpostor
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition vpnpremium 1.0
-# Auther  : Hokage Legend
+# Auther  : LunoxxImpostor
 # (C) Copyright 2023
 # =========================================
 # pewarna hidup
@@ -29,7 +29,7 @@ sleep 1
 echo "\e[1;32m Proses Download Script UdpCustom.. \e[0m"
 sleep 1
 clear
-echo "\e[1;32m Cecking Tool UdpCustom By Hokage Legend.. \e[0m"
+echo "\e[1;32m Cecking Tool UdpCustom By LunoxxImpostor.. \e[0m"
 sleep 1
 clear
 echo "\e[1;32m Succes Cecking Tool.. \e[0m"
@@ -47,7 +47,7 @@ sleep 1
 echo "\e[1;32m Proses Download Script Config Default.. \e[0m"
 sleep 1
 clear
-echo "\e[1;32m Cecking Config Default By Hokage Legend.. \e[0m"
+echo "\e[1;32m Cecking Config Default By LunoxxImpostor.. \e[0m"
 sleep 1
 clear
 echo "\e[1;32m Succes Cecking Config Default Tool.. \e[0m"
@@ -62,7 +62,7 @@ chmod 644 /root/udp/config.json
 if [ -z "$1" ]; then
 cat <<EOF > /etc/systemd/system/udp-custom.service
 [Unit]
-Description=UDP Custom by Hokage Legend
+Description=UDP Custom by LunoxxImpostor
 
 [Service]
 User=root
@@ -78,7 +78,7 @@ EOF
 else
 cat <<EOF > /etc/systemd/system/udp-custom.service
 [Unit]
-Description=UDP Custom by Hokage Legend
+Description=UDP Custom by LunoxxImpostor
 
 [Service]
 User=root
