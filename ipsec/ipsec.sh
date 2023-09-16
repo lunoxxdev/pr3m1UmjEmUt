@@ -301,12 +301,12 @@ mkdir -p /run/pluto
 service fail2ban restart 2>/dev/null
 service ipsec restart 2>/dev/null
 service xl2tpd restart 2>/dev/null
-wget -O /usr/bin/addl2tp https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/ipsec/addl2tp.sh && chmod +x /usr/bin/addl2tp
-wget -O /usr/bin/dell2tp https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/ipsec/dell2tp.sh && chmod +x /usr/bin/dell2tp
-wget -O /usr/bin/addpptp https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/ipsec/addpptp.sh && chmod +x /usr/bin/addpptp
-wget -O /usr/bin/delpptp https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/ipsec/delpptp.sh && chmod +x /usr/bin/delpptp
-wget -O /usr/bin/renewpptp https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/ipsec/renewpptp.sh && chmod +x /usr/bin/renewpptp
-wget -O /usr/bin/renewl2tp https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/ipsec/renewl2tp.sh && chmod +x /usr/bin/renewl2tp
+wget -O /usr/bin/addl2tp https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/ipsec/addl2tp.sh && chmod +x /usr/bin/addl2tp
+wget -O /usr/bin/dell2tp https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/ipsec/dell2tp.sh && chmod +x /usr/bin/dell2tp
+wget -O /usr/bin/addpptp https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/ipsec/addpptp.sh && chmod +x /usr/bin/addpptp
+wget -O /usr/bin/delpptp https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/ipsec/delpptp.sh && chmod +x /usr/bin/delpptp
+wget -O /usr/bin/renewpptp https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/ipsec/renewpptp.sh && chmod +x /usr/bin/renewpptp
+wget -O /usr/bin/renewl2tp https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/ipsec/renewl2tp.sh && chmod +x /usr/bin/renewl2tp
 touch /var/lib/hokage/data-user-l2tp
 touch /var/lib/hokage/data-user-pptp
 rm -f /root/ipsec.sh

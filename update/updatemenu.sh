@@ -14,19 +14,19 @@ rm -rf add-tr
 # download menu
 
 cd /usr/bin
-wget -O menu "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/menu/menu.sh" 
-wget -O updatemenu "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/update/updatemenu.sh" 
-wget -O menutheme "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/update/menutheme.sh"
-wget -O running "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/update/running.sh"
-wget -O info "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/update/info.sh" 
+wget -O menu "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/menu/menu.sh" 
+wget -O updatemenu "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/update/updatemenu.sh" 
+wget -O menutheme "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/update/menutheme.sh"
+wget -O running "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/update/running.sh"
+wget -O info "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/update/info.sh" 
 wget -O vpnpremium "https://raw.githubusercontent.com/hokagelegend2023/update/main/vpnpremium.sh"
-wget -O l2tpmenu "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/menu/l2tpmenu.sh"
-wget -O pptpmenu "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/menu/pptpmenu.sh"
-wget -O sstpmenu "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/menu/sstpmenu.sh"
-wget -O add-tr "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/menu/menu-trojan.sh"
-wget -O m-vmess "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/menu/m-vmess.sh"
-wget -O m-vless "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/menu/m-vless"
-wget -O m-sshovpn "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/menu/m-sshovpn.sh"
+wget -O l2tpmenu "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/menu/l2tpmenu.sh"
+wget -O pptpmenu "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/menu/pptpmenu.sh"
+wget -O sstpmenu "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/menu/sstpmenu.sh"
+wget -O add-tr "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/menu/menu-trojan.sh"
+wget -O m-vmess "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/menu/m-vmess.sh"
+wget -O m-vless "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/menu/m-vless"
+wget -O m-sshovpn "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/menu/m-sshovpn.sh"
 
 chmod +x m-vless
 chmod +x m-vmess

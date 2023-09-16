@@ -38,8 +38,8 @@ chmod +x /usr/local/bin/xray
 # Make Folder XRay
 mkdir -p /var/log/xray/
 #
-wget -q -O /usr/local/bin/geosite.dat "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/grpc/geosite.dat"
-wget -q -O /usr/local/bin/geoip.dat "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/grpc/geoip.dat"
+wget -q -O /usr/local/bin/geosite.dat "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/grpc/geosite.dat"
+wget -q -O /usr/local/bin/geoip.dat "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/grpc/geoip.dat"
 
 #
 cat > /etc/xray/vmessgrpc.json << END
@@ -316,10 +316,10 @@ systemctl enable vless-grpc
 systemctl restart vless-grpc
 #
 cd /usr/bin
-wget -O addgrpc "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/grpc/addgrpc.sh"
-wget -O delgrpc "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/grpc/delgrpc.sh"
-wget -O renewgrpc "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/grpc/renewgrpc.sh"
-wget -O cekgrpc "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/grpc/cekgrpc.sh"
+wget -O addgrpc "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/grpc/addgrpc.sh"
+wget -O delgrpc "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/grpc/delgrpc.sh"
+wget -O renewgrpc "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/grpc/renewgrpc.sh"
+wget -O cekgrpc "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/grpc/cekgrpc.sh"
 
 chmod +x addgrpc
 chmod +x delgrpc

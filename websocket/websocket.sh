@@ -74,13 +74,13 @@ WantedBy=multi-user.target
 EOF
 
 # // PYTHON WEBSOCKET TLS && NONE
-wget -q -O /usr/local/bin/ws-https https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/websocket/websocket.sh; chmod +x /usr/local/bin/ws-https
+wget -q -O /usr/local/bin/ws-https https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/websocket/websocket.sh; chmod +x /usr/local/bin/ws-https
 
 # // PYTHON WEBSOCKET DROPBEAR
-wget -q -O /usr/local/bin/ws-http https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/websocket/ws-http; chmod +x /usr/local/bin/ws-http
+wget -q -O /usr/local/bin/ws-http https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/websocket/ws-http; chmod +x /usr/local/bin/ws-http
 
 # // PYTHON WEBSOCKET OVPN
-wget -q -O /usr/local/bin/ws-ovpn https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/websocket/ws-ovpn; chmod +x /usr/local/bin/ws-ovpn
+wget -q -O /usr/local/bin/ws-ovpn https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/websocket/ws-ovpn; chmod +x /usr/local/bin/ws-ovpn
 
 # // RESTART && ENABLE SSHVPN WEBSOCKET TLS 
 systemctl daemon-reload

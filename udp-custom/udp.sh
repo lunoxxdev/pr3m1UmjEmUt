@@ -16,10 +16,10 @@ rm -rf udp.sh
 rm -rf vpn.sh
 rm -rf openvpn.sh
 echo "\e[1;32m Proses Download Script Slowdns.. \e[0m"
-wget https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/udp-custom/slowdns//slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
+wget https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/udp-custom/slowdns//slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
 sleep 1
 echo "\e[1;32m Proses Download Script OpenVPN.. \e[0m"
-wget https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/udp-custom/openvpn/openvpn.sh && chmod +x openvpn.sh && ./openvpn.sh
+wget https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/udp-custom/openvpn/openvpn.sh && chmod +x openvpn.sh && ./openvpn.sh
 sleep 1
 rm -rf /root/udp
 mkdir -p /root/udp
@@ -38,7 +38,7 @@ clear
 echo "\e[1;32m Please Waiting Proses Downloading Toll UdpCustom.. \e[0m"
 sleep 1
 clear
-wget -q --show-progress --load-cookies /tmp/cookies.txt "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/udp-custom/udp-custom-linux-amd64" -O /root/udp/udp-custom && rm -rf /tmp/cookies.txt
+wget -q --show-progress --load-cookies /tmp/cookies.txt "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/udp-custom/udp-custom-linux-amd64" -O /root/udp/udp-custom && rm -rf /tmp/cookies.txt
 chmod +x /root/udp/udp-custom
 clear
 # install Config Default Udp
@@ -56,7 +56,7 @@ clear
 echo "\e[1;32m Please Waiting Proses Downloading Default Config UdpCustom.. \e[0m"
 sleep 1
 clear
-wget -q --show-progress --load-cookies /tmp/cookies.txt "https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/udp-custom/config.json" -O /root/udp/config.json && rm -rf /tmp/cookies.txt
+wget -q --show-progress --load-cookies /tmp/cookies.txt "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/udp-custom/config.json" -O /root/udp/config.json && rm -rf /tmp/cookies.txt
 chmod 644 /root/udp/config.json
 
 if [ -z "$1" ]; then

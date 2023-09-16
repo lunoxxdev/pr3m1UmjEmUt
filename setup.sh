@@ -207,33 +207,33 @@ EOF
 
 #install ssh ovpn
 echo -e "\e[33m-----------------------------------\033[0m"
-echo -e "$BGreen   Install System Pendukung         $NC"
+echo -e "$BGreen   Install Jembut         $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
-wget -q https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/dependencies.sh;chmod +x dependencies.sh;./dependencies.sh
+wget -q https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/dependencies.sh;chmod +x dependencies.sh;./dependencies.sh
 rm dependencies.sh
 clear
 #install ssh ovpn
 echo -e "\e[33m-----------------------------------\033[0m"
-echo -e "$BGreen      Install SSH Websocket           $NC"
+echo -e "$BGreen      Install Memek           $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
-wget https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/ssh/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
+wget https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/ssh/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
 rm ssh-vpn.sh
 clear
 #
 #Instal Xray
 echo -e "\e[33m-----------------------------------\033[0m"
-echo -e "$BGreen          Install XRAY              $NC"
+echo -e "$BGreen          Install Puki              $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
-wget https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/xray/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
+wget https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/xray/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
 rm ins-xray.sh
 clear
-wget https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/sshws/insshws.sh && chmod +x insshws.sh && ./insshws.sh
+wget https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/sshws/insshws.sh && chmod +x insshws.sh && ./insshws.sh
 rm insshws.sh
 clear
 sleep 0.5
@@ -244,7 +244,7 @@ echo -e "$BGreen      Install SSH IPSEC           $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
-wget https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/ipsec/ipsec.sh && chmod +x ipsec.sh && ./ipsec.sh
+wget https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/ipsec/ipsec.sh && chmod +x ipsec.sh && ./ipsec.sh
 rm ipsec.sh
 clear
 #
@@ -254,7 +254,7 @@ echo -e "$BGreen      Install SSH SSTP           $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
-wget https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/sstp/sstp.sh && chmod +x sstp.sh && ./sstp.sh
+wget https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/sstp/sstp.sh && chmod +x sstp.sh && ./sstp.sh
 rm sstp.sh
 clear
 #install ssh WIREGUARD
@@ -263,7 +263,7 @@ echo -e "$BGreen      Install SSH WIREGUARD          $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
-wget https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/wireguard/wg.sh && chmod +x wg.sh && ./wg.sh
+wget https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/wireguard/wg.sh && chmod +x wg.sh && ./wg.sh
 rm wg.sh
 clear
 #Instal UDP & Slow Dns
@@ -272,7 +272,7 @@ echo -e "$BGreen  INSTALL SLOWDNS & UDP             $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
-wget https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/udp-custom/udp.sh && chmod +x udp.sh && ./udp.sh
+wget https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/udp-custom/udp.sh && chmod +x udp.sh && ./udp.sh
 rm udp.sh
 clear
 #Instal UDP & Slow Dns
@@ -281,7 +281,7 @@ echo -e "$BGreen  INSTALL SLOWDNS & UDP             $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
-wget https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/backup/set-br.sh && chmod +x set-br.sh && ./set-br.sh
+wget https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/backup/set-br.sh && chmod +x set-br.sh && ./set-br.sh
 rm set-br.sh
 clear
 #Instal menu
@@ -290,7 +290,7 @@ echo -e "$BGreen     Install MENU UPDATE           $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
-wget https://raw.githubusercontent.com/hokagelegend2023/vpnpremium/main/update/updatemenu.sh && chmod +x updatemenu.sh && ./updatemenu.sh
+wget https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/update/updatemenu.sh && chmod +x updatemenu.sh && ./updatemenu.sh
 rm updatemenu.sh
 clear
 cat> /root/.profile << END
