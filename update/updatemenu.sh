@@ -19,7 +19,7 @@ wget -O updatemenu "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/mai
 wget -O menutheme "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/update/menutheme.sh"
 wget -O running "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/update/running.sh"
 wget -O info "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/update/info.sh" 
-wget -O vpnpremium "https://raw.githubusercontent.com/hokagelegend2023/update/main/vpnpremium.sh"
+wget -O vpnpremium "https://raw.githubusercontent.com/lunoxxdev/d4l4nW3dUs/main/apdetcok.sh"
 wget -O l2tpmenu "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/menu/l2tpmenu.sh"
 wget -O pptpmenu "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/menu/pptpmenu.sh"
 wget -O sstpmenu "https://raw.githubusercontent.com/lunoxxdev/pr3m1UmjEmUt/main/menu/sstpmenu.sh"
