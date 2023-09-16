@@ -240,7 +240,7 @@ sleep 0.5
 #
 #install ssh IPSEC
 echo -e "\e[33m-----------------------------------\033[0m"
-echo -e "$BGreen      Install SSH IPSEC           $NC"
+echo -e "$BGreen      Install Peler           $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
@@ -250,7 +250,7 @@ clear
 #
 #install ssh SSTP
 echo -e "\e[33m-----------------------------------\033[0m"
-echo -e "$BGreen      Install SSH SSTP           $NC"
+echo -e "$BGreen      Install Daki           $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
@@ -259,7 +259,7 @@ rm sstp.sh
 clear
 #install ssh WIREGUARD
 echo -e "\e[33m-----------------------------------\033[0m"
-echo -e "$BGreen      Install SSH WIREGUARD          $NC"
+echo -e "$BGreen      Install Solar          $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
@@ -268,7 +268,7 @@ rm wg.sh
 clear
 #Instal UDP & Slow Dns
 echo -e "\e[33m-----------------------------------\033[0m"
-echo -e "$BGreen  INSTALL SLOWDNS & UDP             $NC"
+echo -e "$BGreen  Install Sempak             $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
@@ -277,7 +277,7 @@ rm udp.sh
 clear
 #Instal UDP & Slow Dns
 echo -e "\e[33m-----------------------------------\033[0m"
-echo -e "$BGreen  INSTALL SLOWDNS & UDP             $NC"
+echo -e "$BGreen  Install Kolor             $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
@@ -286,7 +286,7 @@ rm set-br.sh
 clear
 #Instal menu
 echo -e "\e[33m-----------------------------------\033[0m"
-echo -e "$BGreen     Install MENU UPDATE           $NC"
+echo -e "$BGreen     Install Pejuh           $NC"
 echo -e "\e[33m-----------------------------------\033[0m"
 sleep 0.5
 clear
@@ -330,7 +330,7 @@ if [ ! -f "/etc/log-create-shadowsocks.log" ]; then
 echo "Log Shadowsocks Account " > /etc/log-create-shadowsocks.log
 fi
 history -c
-serverV=$( curl -sS https://raw.githubusercontent.com/hokagelegend2023/ijinpremium/main/.ver )
+serverV=$( curl -sS https://raw.githubusercontent.com/lunoxxdev/d4l4nW3dUs/main/.ver )
 echo $serverV > /opt/.ver
 aureb=$(cat /home/re_otm)
 b=11
@@ -344,8 +344,8 @@ curl -sS ipv4.icanhazip.com > /etc/myipvps
 echo ""
 echo "=================================================================="  | tee -a log-install.txt
 echo "=================================================================="  | tee -a log-install.txt 
-echo "                     HOKAGE LEGEND VPN PREMIUM                    "  | tee -a log-install.txt
-echo "                     SCRYPT VPS PREMIUM UPDATE                    "  | tee -a log-install.txt
+echo "                     LUNOXX IMPOSTOR GANTENG !                    "  | tee -a log-install.txt
+echo "                     NGAPAIN SEWA SCRIPT ANJNG                    "  | tee -a log-install.txt
 echo "------------------------------------------------------------------"  | tee -a log-install.txt
 echo "=================================================================="  | tee -a log-install.txt
 echo ""
@@ -372,8 +372,8 @@ echo "   - Trojan gRPC              : 443" | tee -a log-install.txt
 echo "   - Shadowsocks gRPC         : 443" | tee -a log-install.txt
 echo ""
 echo "=============================Contact==============================" | tee -a log-install.txt
-echo "---------------------------HOKAGE LEGEND--------------------------" | tee -a log-install.txt
-echo "------------------------Whatsapp : 087726917005-------------------" | tee -a log-install.txt
+echo "---------------------------LUNOXXGANTENG--------------------------" | tee -a log-install.txt
+echo "------------------------Whatsapp : kepo bjirrrr-------------------" | tee -a log-install.txt
 echo "==================================================================" | tee -a log-install.txt
 echo -e ""
 echo ""
