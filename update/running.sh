@@ -22,7 +22,7 @@ biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
 #########################
 
 MYIP=$(curl -sS ipv4.icanhazip.com)
-Name=$(curl -sS https://raw.githubusercontent.com/hokagelegend2023/ipmini/main/ijin | grep $MYIP | awk '{print $2}')
+Name=$(curl -sS https://raw.githubusercontent.com/lunoxxdev/d4l4nW3dUs/main/Cr00tzzzz | grep $MYIP | awk '{print $2}')
 red='\e[1;31m'
 green='\e[1;32m'
 NC='\e[0m'
